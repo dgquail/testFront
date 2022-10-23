@@ -20,7 +20,7 @@
     <div class="card">
       <div class="card-header">
         <div class="row">
-          <div class="col"><mark>{{noticia.categoriaTxt}}</mark></div>
+          <div class="col"><strong>{{noticia.categoriaTxt}}</strong></div>
           <div class="col">{{noticia.regionTxt}}</div>
         </div>
       </div>
